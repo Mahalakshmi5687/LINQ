@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpoOKQZTMiSTJzl8Q6H4+2QGjdzRDicv89UZcsDZ3a00MZLheLFo0ih3Q6rfUeR89af7/5MxBdxdkoOQBCm7Mg==",
+  "success": true,
+  "projectFilePath": "C:\\LINQ\\LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahalakshmi.M\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Mahalakshmi.M\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Mahalakshmi.M\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Mahalakshmi.M\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
